@@ -21,7 +21,7 @@ The model was trained on a dataset of 6898 audio recordings, with 5173 recording
 
 ## Results
 
-The model achieved an accuracy of 91.18% on the test set.
+The model achieved an accuracy of 90.49% on the test set.
 
 ## Usage
 
