@@ -1,4 +1,4 @@
-#  UTILIZING NEURALNETWORKSTOANALYZERESPIRATORY SOUNDS FOR THE DETECTION OF LUNG DISEASES
+#  UTILIZING NEURAL NETWORKS TO ANALYZE RESPIRATORY SOUNDS FOR THE DETECTION OF LUNG DISEASES
 
 This repository contains a deep learning model for classifying respiratory sounds into different disease categories. The model uses a combination of convolutional neural networks (CNNs) and recurrent neural networks (RNNs) to extract features from audio recordings of respiratory sounds.
 
