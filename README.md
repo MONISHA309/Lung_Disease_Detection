@@ -23,8 +23,3 @@ The model was trained on a dataset of 6898 audio recordings, with 5173 recording
 
 The model achieved an accuracy of 90.49% on the test set.
 
-## Usage
-
-  1. Clone the repository and navigate to the project directory.
-  2. Install the required dependencies using !pip install -r requirements.txt in the notebook.
-  3. Run the notebook to train and evaluate the model.
